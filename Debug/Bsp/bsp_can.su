@@ -1,0 +1,7 @@
+bsp_can.c:30:6:can_user_init	48	static
+bsp_can.c:56:6:HAL_CAN_RxFifo0MsgPendingCallback	48	static
+bsp_can.c:87:6:set_motor_speed_mode	40	static
+bsp_can.c:108:6:set_motor_acceleration	40	static
+bsp_can.c:129:6:set_motor_speed	40	static
+bsp_can.c:151:6:set_motor_enable	40	static
+bsp_can.c:173:6:set_motor_stop	40	static
